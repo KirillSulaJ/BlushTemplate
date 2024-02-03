@@ -1,0 +1,145 @@
+* {
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-family: "Noto Sans";
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: "Noto Sans";
+
+}
+
+#Template {
+    margin: auto;
+    position: relative;
+    text-align: center;
+    max-width: 600px;
+    margin-bottom: 40px;
+}
+
+#Template p {
+    position: relative;
+    margin: auto;
+    max-width: 504px;
+    margin-bottom: 24px;
+    font-family: "Noto Sans";
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+}
+
+.elem {
+    margin-bottom: 24px;
+}
+
+button {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.125px;
+    text-align: center;
+    font-family: "Noto Sans";
+    padding: 13px;
+    background: #fff;
+    border: solid black 1px;
+    border-radius: 4px;
+}
+
+button:hover {
+    background: #c4c4c4;
+}
+
+button:active {
+    background: #777777;
+}
+
+.section {
+    margin: auto;
+    max-width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+#txt {
+    max-width: 260px;
+}
+
+.section h2 {
+    font-family: "Noto Sans";
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 8px;
+}
+
+.section p {
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: "Noto Sans";
+    margin-bottom: 16px;
+}
+
+p {
+    position: relative;
+    margin: auto;
+    margin-bottom: 40px;
+    max-width: 600px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: "Apercu Pro";
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    position: relative;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+#socials {
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#sub {
+    text-decoration: underline;
+}
